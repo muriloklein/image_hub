@@ -49,7 +49,7 @@ image_hub/
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/muriloklein/image-hub.git
+git clone https://github.com/muriloklein/image_hub.git
 cd image-hub
 ```
 
